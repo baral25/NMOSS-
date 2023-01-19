@@ -1,0 +1,46 @@
+
+# input("Press Enter to continue...")
+# chocolate = input("Do you want chocolate")
+# if chocolate == ("Yes"):
+# 	print ("Have It")
+# elif chocolate == ("no"):
+# 	print ("Ok Thank you")
+# def check(list1, value):
+#     x= 90000 
+#     # traverse in the list
+#     for x in list1:
+  
+#         # compare with all the values
+#         # with val
+#         if value<= x:
+#             return False 
+#     return True
+# num_list = []
+# with open('tasklist.txt','r')as fh:
+#     for line in fh.readlines():
+#         num_list.append(((line.split('K'))[0]))
+
+# print (num_list)
+# value = 100000
+# if (check(num_list,value)):
+#   print("Pog")
+# else:
+#   print("KEKW")
+  
+with open("tasklist.txt") as textFile: 
+    task= textFile.readlines()
+    print(task)
+image_name =[]
+pid = []
+session_name = []
+session_number = []
+mem_usage = []
+for l in task:
+  list_s = l.split("K")    
+  image_name.append(list_s[0])
+  # pid.append(list_s[1])
+  # session_name.append(list_s[2])
+  # session_number.append(list_s[3])
+  # mem_usage.append(list_s[4])
+  print(image_name)
+  print(pid)

@@ -1,0 +1,28 @@
+
+Profiles on interface Wi-Fi:
+
+Group policy profiles (read only)
+---------------------------------
+    <None>
+
+User profiles
+-------------
+    All User Profile     : Hotel Pathibhara Top
+    All User Profile     : Pokharel
+    All User Profile     : Islington-College
+    All User Profile     : Islington College
+    All User Profile     : genuine1_wlink
+    All User Profile     : sense
+    All User Profile     : reechakhatiwada_ClassicTech
+    All User Profile     : hello world
+    All User Profile     : MOTOROLA-93BE3
+    All User Profile     : AndroidAP
+    All User Profile     : WebSTAR
+    All User Profile     : Shyam
+    All User Profile     : RONIT
+    All User Profile     : LAPTOP-0BAFIM59 1225
+    All User Profile     : Free_WorldLink_Lumbini_Wi-Fi
+    All User Profile     : CISCO-93BE3
+    All User Profile     : B-LINKwlink
+    All User Profile     : 132638_ClassicTech
+

@@ -1,0 +1,1124 @@
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter Ethernet 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 9:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 10:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::6860:c2a8:502c:f02d%2
+   IPv4 Address. . . . . . . . . . . : 192.168.0.18
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.0.1
+-------------------------------------------------------------
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Wireless-AC 9560 160MHz
+    GUID                   : 044fa642-9a4d-40eb-a54e-04e372db232c
+    Physical address       : c0:b6:f9:95:96:e7
+    State                  : connected
+    SSID                   : MOTOROLA-93BE3
+    BSSID                  : 00:26:82:d5:6e:39
+    Network type           : Infrastructure
+    Radio type             : 802.11n
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Connection mode        : Profile
+    Channel                : 1
+    Receive rate (Mbps)    : 104
+    Transmit rate (Mbps)   : 65
+    Signal                 : 69% 
+    Profile                : MOTOROLA-93BE3 
+
+    Hosted network status  : Not available
+---------------------------------------------------------
+Wireless System Information Summary
+(Time: 3/2/2021 7:51:48 PM Nepal Standard Time)
+
+
+======================================================================= 
+============================== SHOW DRIVERS =========================== 
+=======================================================================
+
+
+Interface name: Wi-Fi
+
+    Driver                    : Intel(R) Wireless-AC 9560 160MHz
+    Vendor                    : Intel Corporation
+    Provider                  : Intel
+    Date                      : 10/20/2020
+    Version                   : 22.10.0.7
+    INF file                  : oem52.inf
+    Type                      : Native Wi-Fi Driver
+    Radio types supported     : 802.11b 802.11g 802.11n 802.11a 802.11ac
+    FIPS 140-2 mode supported : Yes
+    802.11w Management Frame Protection supported : Yes
+    Hosted network supported  : No
+    Authentication and cipher supported in infrastructure mode:
+                                Open            None
+                                Open            WEP-40bit
+                                Open            WEP-104bit
+                                Open            WEP
+                                WPA-Enterprise  TKIP
+                                WPA-Enterprise  CCMP
+                                WPA-Personal    TKIP
+                                WPA-Personal    CCMP
+                                WPA2-Enterprise TKIP
+                                WPA2-Enterprise CCMP
+                                WPA2-Personal   TKIP
+                                WPA2-Personal   CCMP
+                                Open            Vendor defined
+                                WPA3-Personal   CCMP
+                                Vendor defined  Vendor defined
+                                WPA3-Enterprise GCMP-256
+                                OWE             CCMP
+    IHV service present       : Yes
+    IHV adapter OUI           : [00 80 86], type: [00]
+    IHV extensibility DLL path: C:\WINDOWS\system32\IntelIHVRouter08.dll
+    IHV UI extensibility ClSID: {1bf6cb2d-2ae0-4879-a7aa-a75834fbd0e3}
+    IHV diagnostics CLSID     : {00000000-0000-0000-0000-000000000000}
+    Wireless Display Supported: Yes (Graphics Driver: Yes, Wi-Fi Driver: Yes)
+
+
+======================================================================= 
+============================= SHOW INTERFACES ========================= 
+=======================================================================
+
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Wireless-AC 9560 160MHz
+    GUID                   : 044fa642-9a4d-40eb-a54e-04e372db232c
+    Physical address       : c0:b6:f9:95:96:e7
+    State                  : connected
+    SSID                   : MOTOROLA-93BE3
+    BSSID                  : 00:26:82:d5:6e:39
+    Network type           : Infrastructure
+    Radio type             : 802.11n
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Connection mode        : Profile
+    Channel                : 1
+    Receive rate (Mbps)    : 39
+    Transmit rate (Mbps)   : 144.4
+    Signal                 : 87% 
+    Profile                : MOTOROLA-93BE3 
+
+    Hosted network status  : Not available
+
+
+======================================================================= 
+=========================== SHOW HOSTED NETWORK ======================= 
+=======================================================================
+
+
+Hosted network settings 
+----------------------- 
+    Mode                   : Allowed
+    Settings               : <Not configured>
+
+Hosted network status   
+--------------------- 
+    Status                 : Not available
+
+
+======================================================================= 
+============================= SHOW SETTINGS =========================== 
+=======================================================================
+
+
+Wireless LAN settings 
+--------------------- 
+    Show blocked networks in visible network list: No
+
+    Only use GP profiles on GP-configured networks: No
+
+    Hosted network mode allowed in WLAN service: Yes
+
+    Allow shared user credentials for network authentication: Yes
+
+    Block period: Not Configured.
+
+    Auto configuration logic is enabled on interface "Wi-Fi"
+    MAC randomization disabled on interface Wi-Fi
+
+
+======================================================================= 
+============================== SHOW FILTERS =========================== 
+=======================================================================
+
+
+Allow list on the system (group policy) 
+--------------------------------------- 
+    <None>
+
+Allow list on the system (user) 
+------------------------------- 
+    <None>
+
+Block list on the system (group policy) 
+--------------------------------------- 
+    <None>
+
+Block list on the system (user) 
+------------------------------- 
+    <None>
+
+
+======================================================================= 
+=========================== SHOW CREATEALLUSER ======================== 
+=======================================================================
+
+
+Everyone is allowed to create all user profiles.
+
+
+======================================================================= 
+============================= SHOW PROFILES =========================== 
+=======================================================================
+
+
+Profiles on interface Wi-Fi:
+
+Group policy profiles (read only)
+---------------------------------
+    <None>
+
+User profiles
+-------------
+    All User Profile     : Islington College
+    All User Profile     : genuine1_wlink
+    All User Profile     : sense
+    All User Profile     : reechakhatiwada_ClassicTech
+    All User Profile     : hello world
+    All User Profile     : MOTOROLA-93BE3
+    All User Profile     : WebSTAR
+    All User Profile     : Shyam
+    All User Profile     : RONIT
+    All User Profile     : LAPTOP-0BAFIM59 1225
+    All User Profile     : Islington-College
+    All User Profile     : Free_WorldLink_Lumbini_Wi-Fi
+    All User Profile     : CISCO-93BE3
+    All User Profile     : B-LINKwlink
+    All User Profile     : AndroidAP
+    All User Profile     : 132638_ClassicTech
+
+
+======================================================================= 
+========================== SHOW PROFILES NAME=* ======================= 
+=======================================================================
+
+
+Profile Islington College on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : Islington College
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "Islington College"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile genuine1_wlink on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : genuine1_wlink
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect even if this network is not broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "genuine1_wlink"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile sense on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : sense
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "sense"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile reechakhatiwada_ClassicTech on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : reechakhatiwada_ClassicTech
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "reechakhatiwada_ClassicTech"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile hello world on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : hello world
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect even if this network is not broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "hello world"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile MOTOROLA-93BE3 on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : MOTOROLA-93BE3
+    Control options        : 
+        Connection mode    : Connect manually
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "MOTOROLA-93BE3"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile WebSTAR on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : WebSTAR
+    Control options        : 
+        Connection mode    : Connect manually
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "WebSTAR"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : Open
+    Cipher                 : None
+    Security key           : Absent
+    Key Index              : 1
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile Shyam on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : Shyam
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "Shyam"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile RONIT on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : RONIT
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "RONIT"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile LAPTOP-0BAFIM59 1225 on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : LAPTOP-0BAFIM59 1225
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "LAPTOP-0BAFIM59 1225"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile Islington-College on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : Islington-College
+    Control options        : 
+        Connection mode    : Connect manually
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "Islington-College"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile Free_WorldLink_Lumbini_Wi-Fi on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : Free_WorldLink_Lumbini_Wi-Fi
+    Control options        : 
+        Connection mode    : Connect manually
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "Free_WorldLink_Lumbini_Wi-Fi"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : Open
+    Cipher                 : None
+    Security key           : Absent
+    Key Index              : 1
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile CISCO-93BE3 on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : CISCO-93BE3
+    Control options        : 
+        Connection mode    : Connect manually
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "CISCO-93BE3"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : Open
+    Cipher                 : None
+    Security key           : Absent
+    Key Index              : 1
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile B-LINKwlink on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : B-LINKwlink
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "B-LINKwlink"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile AndroidAP on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : AndroidAP
+    Control options        : 
+        Connection mode    : Connect manually
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "AndroidAP"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+Profile 132638_ClassicTech on interface Wi-Fi: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : 132638_ClassicTech
+    Control options        : 
+        Connection mode    : Connect manually
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+        MAC Randomization  : Disabled
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "132638_ClassicTech"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Authentication         : WPA2-Personal
+    Cipher                 : GCMP
+    Security key           : Present
+
+Cost settings 
+------------- 
+    Cost                   : Unrestricted
+    Congested              : No
+    Approaching Data Limit : No
+    Over Data Limit        : No
+    Roaming                : No
+    Cost Source            : Default
+
+
+======================================================================= 
+======================= SHOW NETWORKS MODE=BSSID ====================== 
+=======================================================================
+
+ 
+Interface name : Wi-Fi 
+There are 8 networks currently visible. 
+
+SSID 1 : LEARN
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : e4:be:ed:c2:12:c0
+         Signal             : 26%  
+         Radio type         : 802.11n
+         Channel            : 5 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 2 : Broadlink BSD ParkHorizon
+    Network type            : Infrastructure
+    Authentication          : Open
+    Encryption              : None 
+    BSSID 1                 : 00:18:25:05:8a:d1
+         Signal             : 29%  
+         Radio type         : 802.11n
+         Channel            : 13 
+         Basic rates (Mbps) : 6
+         Other rates (Mbps) : 9 12 18 24 36 48 54
+
+SSID 3 : 171499
+    Network type            : Infrastructure
+    Authentication          : WPA-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 98:00:74:99:df:ed
+         Signal             : 24%  
+         Radio type         : 802.11n
+         Channel            : 7 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 4 : TP-Link_5904
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : b0:be:76:1c:59:04
+         Signal             : 88%  
+         Radio type         : 802.11n
+         Channel            : 2 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 5 : reddevils_wlink
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 68:cc:6e:ae:cf:d4
+         Signal             : 50%  
+         Radio type         : 802.11n
+         Channel            : 11 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 6 : 
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : c8:50:e9:d1:34:4a
+         Signal             : 75%  
+         Radio type         : 802.11n
+         Channel            : 6 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 7 : HUAWEI-EXE7
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : ac:f9:70:eb:44:8c
+         Signal             : 43%  
+         Radio type         : 802.11n
+         Channel            : 1 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+SSID 8 : MOTOROLA-93BE3
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 00:26:82:d5:6e:39
+         Signal             : 87%  
+         Radio type         : 802.11n
+         Channel            : 1 
+         Basic rates (Mbps) : 1 2 5.5 11
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+
+======================================================================= 
+======================= SHOW INTERFACE CAPABILITIES =================== 
+=======================================================================
+
+
+Wireless System Capabilities 
+---------------------------- 
+    Number of antennas connected to the 802.11 radio (value not available)
+
+    Max number of channels the device can operate on, simultaneously (value not available)
+
+    Co-existence Support                        : Unknown
+
+
+Wireless Device Capabilities 
+---------------------------- 
+
+Interface name: Wi-Fi
+
+    WDI Version (Windows)                       : 0.1.1.9
+
+    WDI Version (IHV)                           : 0.1.1.9
+
+    Firmware Version                            : E2.F6
+
+    Station                                     : Supported
+
+    Soft AP                                     : Not supported
+
+    Network monitor mode                        : Not supported
+
+    Wi-Fi Direct Device                         : Supported
+
+    Wi-Fi Direct GO                             : Supported
+
+    Wi-Fi Direct Client                         : Supported
+
+    Protected Management Frames                 : Supported
+
+    DOT11k neighbor report                      : Supported
+
+    ANQP Service Information Discovery          : Supported
+
+    Action Frame                                : Supported
+
+    Diversity Antenna                           : Supported
+
+    IBSS                                        : Not Supported
+
+    Promiscuous Mode                            : Not Supported
+
+    P2P Device Discovery                        : Supported
+
+    P2P Service Name Discovery                  : Supported
+
+    P2P Service Info Discovery                  : Not Supported
+
+    P2P Background Discovery                    : Supported
+
+    P2P GO on 5 GHz                             : Supported
+
+    ASP 2.0 Service Name Discovery              : Not Supported
+
+    ASP 2.0 Service Information Discovery       : Not Supported
+
+    IP Docking Capable                          : Not Supported
+
+    FIPS                                        : Supported
+
+    Instant Connect                             : Supported
+
+    Dx Standby NLO                              : Supported
+
+    Extended Channel Switch Announcement        : Supported
+
+    Function Level Reset                        : Supported
+
+    Platform Level Reset                        : Supported
+
+    Bus Level Reset                             : Supported
+
+    MAC Randomization                           : Supported
+
+    Fast Transition                             : Supported
+
+    MU-MIMO                                     : Supported
+
+    Miracast Sink                               : Supported
+
+    BSS Transition (802.11v)                    : Supported
+
+    IHV Extensibility Module Configured         : Supported
+
+    SAE Authentication                          : Supported
+
+    WPA3 SUITE-B Authentication                 : Supported
+
+    WPA3 SUITE-B FIPS Mode                      : Not Supported
+
+    OWE Authentication                          : Supported
+
+    FTM as Initiator                            : Not Supported
+
+    MBO Support                                 : Supported
+
+    Number of Tx Spatial Streams                : 2
+
+    Number of Rx Spatial Streams                : 2
+
+    Number of Concurrent Channels Supported     : 0
+
+    P2P GO ports count                          : 1
+
+    P2P Clients Port Count                      : 1
+
+    P2P Max Mobile AP Clients                   : 10
+
+    Max ANQP Service Advertisements Supported   : 0
+
+    Co-existence Support                        : Wi-Fi performance is maintained
+
+
+
+
+
+

@@ -1,0 +1,23 @@
+
+There is 1 interface on the system: 
+
+    Name                   : Wi-Fi
+    Description            : Intel(R) Wireless-AC 9560 160MHz
+    GUID                   : 044fa642-9a4d-40eb-a54e-04e372db232c
+    Physical address       : c0:b6:f9:95:96:e7
+    State                  : connected
+    SSID                   : MOTOROLA-93BE3
+    BSSID                  : 00:26:82:d5:6e:39
+    Network type           : Infrastructure
+    Radio type             : 802.11n
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Connection mode        : Profile
+    Channel                : 11
+    Receive rate (Mbps)    : 144.4
+    Transmit rate (Mbps)   : 144.4
+    Signal                 : 83% 
+    Profile                : MOTOROLA-93BE3 
+
+    Hosted network status  : Not available
+

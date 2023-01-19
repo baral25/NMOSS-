@@ -1,0 +1,19 @@
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State           PID
+  TCP    0.0.0.0:135            LAPTOP-37OJC1P6:0      LISTENING       1264
+  TCP    0.0.0.0:443            LAPTOP-37OJC1P6:0      LISTENING       5544
+  TCP    0.0.0.0:445            LAPTOP-37OJC1P6:0      LISTENING       4
+  TCP    0.0.0.0:902            LAPTOP-37OJC1P6:0      LISTENING       5088
+  TCP    0.0.0.0:912            LAPTOP-37OJC1P6:0      LISTENING       5088
+  TCP    0.0.0.0:5040           LAPTOP-37OJC1P6:0      LISTENING       7440
+  TCP    0.0.0.0:5357           LAPTOP-37OJC1P6:0      LISTENING       4
+  TCP    0.0.0.0:27036          LAPTOP-37OJC1P6:0      LISTENING       17052
+  TCP    0.0.0.0:49664          LAPTOP-37OJC1P6:0      LISTENING       104
+  TCP    0.0.0.0:49665          LAPTOP-37OJC1P6:0      LISTENING       928
+  TCP    0.0.0.0:49666          LAPTOP-37OJC1P6:0      LISTENING       1816
+  TCP    0.0.0.0:49667          LAPTOP-37OJC1P6:0      LISTENING       1944
+  TCP    0.0.0.0:49668          LAPTOP-37OJC1P6:0      LISTENING       4100
+  TCP    0.0.0.0:49671          LAPTOP-37OJC1P6:0      LISTENING       1008
+  TCP    100.64.198.142:139     LAPTOP-37OJC1P6:0      LISTENING       4
